@@ -138,12 +138,12 @@ Developing Health Checkup Reporting System using Rule-based Methodology</h6>
                           </div>
                       </div>
                       <div class="card-body">
-                          <h6 class="mb-0 ">รายงานผลการตรวจสุขภาพทั้งหมด</h6>
-                          <p class="text-sm ">อัตราการายงานผลสำเร็จ</p>
+                          <h6 class="mb-0 ">Completed Tasks</h6>
+                          <p class="text-sm ">Last Campaign Performance</p>
                           <hr class="dark horizontal">
                           <div class="d-flex ">
                               <i class="material-icons text-sm my-auto me-1">schedule</i>
-                              <p class="mb-0 text-sm">ประมวลผลทุก 5 นาที</p>
+                              <p class="mb-0 text-sm">just updated</p>
                           </div>
                       </div>
                   </div>

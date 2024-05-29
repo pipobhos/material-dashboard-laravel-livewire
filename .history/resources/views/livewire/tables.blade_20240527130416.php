@@ -47,8 +47,8 @@
                                                 </div>
                                             </td>
                                             <td>
-                                                <p class="text-xs font-weight-bold mb-0">Hb, Hct, RBC, MCV, ...</p>
-                                                <p class="text-xs text-secondary mb-0">แพทย์ผู้ตรวจ : นายแพทย์สุดหล่อ</p>
+                                                <p class="text-xs font-weight-bold mb-0">Manager</p>
+                                                <p class="text-xs text-secondary mb-0">Organization</p>
                                             </td>
                                             <td class="align-middle text-center text-sm">
                                                 <span class="badge badge-sm bg-gradient-success"> รายงานแล้ว </span>
@@ -61,7 +61,7 @@
                                                 <a href="javascript:;"
                                                     class="text-secondary font-weight-bold text-xs"
                                                     data-toggle="tooltip" data-original-title="Edit user">
-                                                    คลิกเพื่อแสดงรายงาน
+                                                    Edit
                                                 </a>
                                             </td>
                                         </tr>
@@ -81,8 +81,8 @@
                                                 </div>
                                             </td>
                                             <td>
-                                                <p class="text-xs font-weight-bold mb-0">Hb, Hct, RBC, MCV, ...</p>
-                                                <p class="text-xs text-secondary mb-0">แพทย์ผู้ตรวจ : นายแพทย์สุดหล่อ</p>
+                                                <p class="text-xs font-weight-bold mb-0">Programator</p>
+                                                <p class="text-xs text-secondary mb-0">Developer</p>
                                             </td>
                                             <td class="align-middle text-center text-sm">
                                                 <span class="badge badge-sm bg-gradient-secondary">รอรายงานผล</span>
@@ -95,7 +95,7 @@
                                                 <a href="javascript:;"
                                                     class="text-secondary font-weight-bold text-xs"
                                                     data-toggle="tooltip" data-original-title="Edit user">
-                                                    คลิกเพื่อแสดงรายงาน
+                                                    Edit
                                                 </a>
                                             </td>
                                         </tr>
@@ -115,8 +115,8 @@
                                                 </div>
                                             </td>
                                             <td>
-                                                <p class="text-xs font-weight-bold mb-0">Hb, Hct, RBC, MCV, ...</p>
-                                                <p class="text-xs text-secondary mb-0">แพทย์ผู้ตรวจ : นายแพทย์สุดหล่อ</p>
+                                                <p class="text-xs font-weight-bold mb-0">Executive</p>
+                                                <p class="text-xs text-secondary mb-0">Projects</p>
                                             </td>
                                             <td class="align-middle text-center text-sm">
                                                 <span class="badge badge-sm bg-gradient-success">รายงานแล้ว</span>
@@ -129,7 +129,7 @@
                                                 <a href="javascript:;"
                                                     class="text-secondary font-weight-bold text-xs"
                                                     data-toggle="tooltip" data-original-title="Edit user">
-                                                    คลิกเพื่อแสดงรายงาน
+                                                    Edit
                                                 </a>
                                             </td>
                                         </tr>
@@ -149,8 +149,8 @@
                                                 </div>
                                             </td>
                                             <td>
-                                                <p class="text-xs font-weight-bold mb-0">Hb, Hct, RBC, MCV, ...</p>
-                                                <p class="text-xs text-secondary mb-0">แพทย์ผู้ตรวจ : นายแพทย์สุดหล่อ</p>
+                                                <p class="text-xs font-weight-bold mb-0">Programator</p>
+                                                <p class="text-xs text-secondary mb-0">Developer</p>
                                             </td>
                                             <td class="align-middle text-center text-sm">
                                                 <span class="badge badge-sm bg-gradient-success">รายงานแล้ว</span>
@@ -163,7 +163,7 @@
                                                 <a href="javascript:;"
                                                     class="text-secondary font-weight-bold text-xs"
                                                     data-toggle="tooltip" data-original-title="Edit user">
-                                                    คลิกเพื่อแสดงรายงาน
+                                                    Edit
                                                 </a>
                                             </td>
                                         </tr>
@@ -183,8 +183,8 @@
                                                 </div>
                                             </td>
                                             <td>
-                                                <p class="text-xs font-weight-bold mb-0">Hb, Hct, RBC, MCV, ...</p>
-                                                <p class="text-xs text-secondary mb-0">แพทย์ผู้ตรวจ : นายแพทย์สุดหล่อ</p>
+                                                <p class="text-xs font-weight-bold mb-0">Manager</p>
+                                                <p class="text-xs text-secondary mb-0">Executive</p>
                                             </td>
                                             <td class="align-middle text-center text-sm">
                                                 <span class="badge badge-sm bg-gradient-secondary">รอรายงานผล</span>
@@ -197,7 +197,7 @@
                                                 <a href="javascript:;"
                                                     class="text-secondary font-weight-bold text-xs"
                                                     data-toggle="tooltip" data-original-title="Edit user">
-                                                    คลิกเพื่อแสดงรายงาน
+                                                    Edit
                                                 </a>
                                             </td>
                                         </tr>
@@ -217,8 +217,8 @@
                                                 </div>
                                             </td>
                                             <td>
-                                                <p class="text-xs font-weight-bold mb-0">Hb, Hct, RBC, MCV, ...</p>
-                                                <p class="text-xs text-secondary mb-0">แพทย์ผู้ตรวจ : นายแพทย์สุดหล่อ</p>
+                                                <p class="text-xs font-weight-bold mb-0">Programator</p>
+                                                <p class="text-xs text-secondary mb-0">Developer</p>
                                             </td>
                                             <td class="align-middle text-center text-sm">
                                                 <span class="badge badge-sm bg-gradient-secondary">รอรายงานผล</span>
@@ -231,7 +231,7 @@
                                                 <a href="javascript:;"
                                                     class="text-secondary font-weight-bold text-xs"
                                                     data-toggle="tooltip" data-original-title="Edit user">
-                                                    คลิกเพื่อแสดงรายงาน
+                                                    Edit
                                                 </a>
                                             </td>
                                         </tr>

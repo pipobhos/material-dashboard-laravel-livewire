@@ -584,7 +584,7 @@ Developing Health Checkup Reporting System using Rule-based Methodology</h6>
                   borderSkipped: false,
                   backgroundColor: "rgba(255, 255, 255, .8)",
                   data: [50, 20, 10, 22, 50, 10, 40],
-                  maxBarThickness: 6
+                  maxBarThickness: 99
               }, ],
           },
           options: {

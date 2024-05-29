@@ -16,7 +16,7 @@ Developing Health Checkup Reporting System using Rule-based Methodology</h6>
                   <div class="card">
                       <div class="card-header p-3 pt-2">
                           <div
-                              class="icon icon-lg icon-shape bg-gradient-info shadow-info text-center border-radius-xl mt-n4 position-absolute">
+                              class="icon icon-lg icon-shape bg-gradient-dark shadow-dark text-center border-radius-xl mt-n4 position-absolute">
                               <i class="material-icons opacity-10">weekend</i>
                           </div>
                           <div class="text-end pt-1">
@@ -56,13 +56,14 @@ Developing Health Checkup Reporting System using Rule-based Methodology</h6>
                               <i class="material-icons opacity-10">person</i>
                           </div>
                           <div class="text-end pt-1">
-                              <p class="text-sm mb-0 text-capitalize">รายงานผลแล้ว</p>
+                              <p class="text-sm mb-0 text-capitalize">ผล Lab รายงานแล้ว</p>
                               <h4 class="mb-0">41</h4>
                           </div>
                       </div>
                       <hr class="dark horizontal my-0">
                       <div class="card-footer p-3">
-                          <p class="mb-0">รอผล Lab จำนวน <span class="text-danger text-sm font-weight-bolder">15 </span> รายการ</p>
+                          <p class="mb-0"><span class="text-danger text-sm font-weight-bolder">-2%</span> than
+                              yesterday</p>
                       </div>
                   </div>
               </div>
@@ -70,19 +71,18 @@ Developing Health Checkup Reporting System using Rule-based Methodology</h6>
                   <div class="card">
                       <div class="card-header p-3 pt-2">
                           <div
-                                class="icon icon-lg icon-shape bg-gradient-dark shadow-dark text-center border-radius-xl mt-n4 position-absolute">
-                              {{-- class="icon icon-lg icon-shape bg-gradient-info shadow-info text-center border-radius-xl mt-n4 position-absolute"> --}}
-                              <i class="material-icons opacity-10">person</i>
+                              class="icon icon-lg icon-shape bg-gradient-info shadow-info text-center border-radius-xl mt-n4 position-absolute">
+                              <i class="material-icons opacity-10">weekend</i>
                           </div>
                           <div class="text-end pt-1">
-                              <p class="text-sm mb-0 text-capitalize">รอผลการตรวจ</p>
-                              <h4 class="mb-0">9</h4>
+                              <p class="text-sm mb-0 text-capitalize">Sales</p>
+                              <h4 class="mb-0">$103,430</h4>
                           </div>
                       </div>
                       <hr class="dark horizontal my-0">
                       <div class="card-footer p-3">
-                          <p class="mb-0">ผล Lab ออกแล้ว<span class="text-success text-sm font-weight-bolder"> 5% </span>
-                              </p>
+                          <p class="mb-0"><span class="text-success text-sm font-weight-bolder">+5% </span>than
+                              yesterday</p>
                       </div>
                   </div>
               </div>
@@ -98,12 +98,12 @@ Developing Health Checkup Reporting System using Rule-based Methodology</h6>
                           </div>
                       </div>
                       <div class="card-body">
-                          <h6 class="mb-0 ">รายสัปดาห์</h6>
-                          <p class="text-sm ">สถิติผู้รับบริการทั้งสัปดาห์</p>
+                          <h6 class="mb-0 ">Website Views</h6>
+                          <p class="text-sm ">Last Campaign Performance</p>
                           <hr class="dark horizontal">
                           <div class="d-flex ">
                               <i class="material-icons text-sm my-auto me-1">schedule</i>
-                              <p class="mb-0 text-sm"> ประมวลผลเมื่อ 1 ชั่วโมงก่อน</p>
+                              <p class="mb-0 text-sm"> campaign sent 2 days ago </p>
                           </div>
                       </div>
                   </div>
@@ -118,12 +118,13 @@ Developing Health Checkup Reporting System using Rule-based Methodology</h6>
                           </div>
                       </div>
                       <div class="card-body">
-                          <h6 class="mb-0 "> สถิติรายเดือน </h6>
-                          <p class="text-sm ">ผู้รับบริการเพิ่มขึ้น (<span class="font-weight-bolder">+15%</span>)  </p>
+                          <h6 class="mb-0 "> Daily Sales </h6>
+                          <p class="text-sm "> (<span class="font-weight-bolder">+15%</span>) increase in today
+                              sales. </p>
                           <hr class="dark horizontal">
                           <div class="d-flex ">
                               <i class="material-icons text-sm my-auto me-1">schedule</i>
-                              <p class="mb-0 text-sm"> ประมวลผลเมื่อ 1 ชั่วโมงก่อน </p>
+                              <p class="mb-0 text-sm"> updated 4 min ago </p>
                           </div>
                       </div>
                   </div>
@@ -138,12 +139,12 @@ Developing Health Checkup Reporting System using Rule-based Methodology</h6>
                           </div>
                       </div>
                       <div class="card-body">
-                          <h6 class="mb-0 ">รายงานผลการตรวจสุขภาพทั้งหมด</h6>
-                          <p class="text-sm ">อัตราการายงานผลสำเร็จ</p>
+                          <h6 class="mb-0 ">Completed Tasks</h6>
+                          <p class="text-sm ">Last Campaign Performance</p>
                           <hr class="dark horizontal">
                           <div class="d-flex ">
                               <i class="material-icons text-sm my-auto me-1">schedule</i>
-                              <p class="mb-0 text-sm">ประมวลผลทุก 5 นาที</p>
+                              <p class="mb-0 text-sm">just updated</p>
                           </div>
                       </div>
                   </div>

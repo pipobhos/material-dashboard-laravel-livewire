@@ -17,16 +17,16 @@
                                         <tr>
                                             <th
                                                 class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">
-                                                ข้อมูลผู้รับบริการ</th>
+                                                Author</th>
                                             <th
                                                 class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7 ps-2">
-                                                รายการตรวจ</th>
+                                                Function</th>
                                             <th
                                                 class="text-center text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">
-                                                สถานะ การรายงานผล</th>
+                                                Status</th>
                                             <th
                                                 class="text-center text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">
-                                                ตรวจเมื่อ</th>
+                                                Employed</th>
                                             <th class="text-secondary opacity-7"></th>
                                         </tr>
                                     </thead>
@@ -41,17 +41,17 @@
                                                     </div>
                                                     <div class="d-flex flex-column justify-content-center">
                                                         <h6 class="mb-0 text-sm">John Michael</h6>
-                                                        <p class="text-xs text-secondary mb-0">ตรวจสุขภาพประจำปี
+                                                        <p class="text-xs text-secondary mb-0">john@creative-tim.com
                                                         </p>
                                                     </div>
                                                 </div>
                                             </td>
                                             <td>
-                                                <p class="text-xs font-weight-bold mb-0">Hb, Hct, RBC, MCV, ...</p>
-                                                <p class="text-xs text-secondary mb-0">แพทย์ผู้ตรวจ : นายแพทย์สุดหล่อ</p>
+                                                <p class="text-xs font-weight-bold mb-0">Manager</p>
+                                                <p class="text-xs text-secondary mb-0">Organization</p>
                                             </td>
                                             <td class="align-middle text-center text-sm">
-                                                <span class="badge badge-sm bg-gradient-success"> รายงานแล้ว </span>
+                                                <span class="badge badge-sm bg-gradient-success">Online</span>
                                             </td>
                                             <td class="align-middle text-center">
                                                 <span
@@ -61,7 +61,7 @@
                                                 <a href="javascript:;"
                                                     class="text-secondary font-weight-bold text-xs"
                                                     data-toggle="tooltip" data-original-title="Edit user">
-                                                    คลิกเพื่อแสดงรายงาน
+                                                    Edit
                                                 </a>
                                             </td>
                                         </tr>
@@ -76,16 +76,16 @@
                                                     <div class="d-flex flex-column justify-content-center">
                                                         <h6 class="mb-0 text-sm">Alexa Liras</h6>
                                                         <p class="text-xs text-secondary mb-0">
-                                                            ตรวจสุขภาพหน่วยงาน บริษัท ก.</p>
+                                                            alexa@creative-tim.com</p>
                                                     </div>
                                                 </div>
                                             </td>
                                             <td>
-                                                <p class="text-xs font-weight-bold mb-0">Hb, Hct, RBC, MCV, ...</p>
-                                                <p class="text-xs text-secondary mb-0">แพทย์ผู้ตรวจ : นายแพทย์สุดหล่อ</p>
+                                                <p class="text-xs font-weight-bold mb-0">Programator</p>
+                                                <p class="text-xs text-secondary mb-0">Developer</p>
                                             </td>
                                             <td class="align-middle text-center text-sm">
-                                                <span class="badge badge-sm bg-gradient-secondary">รอรายงานผล</span>
+                                                <span class="badge badge-sm bg-gradient-secondary">Offline</span>
                                             </td>
                                             <td class="align-middle text-center">
                                                 <span
@@ -95,7 +95,7 @@
                                                 <a href="javascript:;"
                                                     class="text-secondary font-weight-bold text-xs"
                                                     data-toggle="tooltip" data-original-title="Edit user">
-                                                    คลิกเพื่อแสดงรายงาน
+                                                    Edit
                                                 </a>
                                             </td>
                                         </tr>
@@ -110,16 +110,16 @@
                                                     <div class="d-flex flex-column justify-content-center">
                                                         <h6 class="mb-0 text-sm">Laurent Perrier</h6>
                                                         <p class="text-xs text-secondary mb-0">
-                                                            ตรวจสุขภาพแพ็กเกจ VIP</p>
+                                                            laurent@creative-tim.com</p>
                                                     </div>
                                                 </div>
                                             </td>
                                             <td>
-                                                <p class="text-xs font-weight-bold mb-0">Hb, Hct, RBC, MCV, ...</p>
-                                                <p class="text-xs text-secondary mb-0">แพทย์ผู้ตรวจ : นายแพทย์สุดหล่อ</p>
+                                                <p class="text-xs font-weight-bold mb-0">Executive</p>
+                                                <p class="text-xs text-secondary mb-0">Projects</p>
                                             </td>
                                             <td class="align-middle text-center text-sm">
-                                                <span class="badge badge-sm bg-gradient-success">รายงานแล้ว</span>
+                                                <span class="badge badge-sm bg-gradient-success">Online</span>
                                             </td>
                                             <td class="align-middle text-center">
                                                 <span
@@ -129,7 +129,7 @@
                                                 <a href="javascript:;"
                                                     class="text-secondary font-weight-bold text-xs"
                                                     data-toggle="tooltip" data-original-title="Edit user">
-                                                    คลิกเพื่อแสดงรายงาน
+                                                    Edit
                                                 </a>
                                             </td>
                                         </tr>
@@ -144,16 +144,16 @@
                                                     <div class="d-flex flex-column justify-content-center">
                                                         <h6 class="mb-0 text-sm">Michael Levi</h6>
                                                         <p class="text-xs text-secondary mb-0">
-                                                            ตรวจสุขภาพสมัครงาน</p>
+                                                            michael@creative-tim.com</p>
                                                     </div>
                                                 </div>
                                             </td>
                                             <td>
-                                                <p class="text-xs font-weight-bold mb-0">Hb, Hct, RBC, MCV, ...</p>
-                                                <p class="text-xs text-secondary mb-0">แพทย์ผู้ตรวจ : นายแพทย์สุดหล่อ</p>
+                                                <p class="text-xs font-weight-bold mb-0">Programator</p>
+                                                <p class="text-xs text-secondary mb-0">Developer</p>
                                             </td>
                                             <td class="align-middle text-center text-sm">
-                                                <span class="badge badge-sm bg-gradient-success">รายงานแล้ว</span>
+                                                <span class="badge badge-sm bg-gradient-success">Online</span>
                                             </td>
                                             <td class="align-middle text-center">
                                                 <span
@@ -163,7 +163,7 @@
                                                 <a href="javascript:;"
                                                     class="text-secondary font-weight-bold text-xs"
                                                     data-toggle="tooltip" data-original-title="Edit user">
-                                                    คลิกเพื่อแสดงรายงาน
+                                                    Edit
                                                 </a>
                                             </td>
                                         </tr>
@@ -178,16 +178,16 @@
                                                     <div class="d-flex flex-column justify-content-center">
                                                         <h6 class="mb-0 text-sm">Richard Gran</h6>
                                                         <p class="text-xs text-secondary mb-0">
-                                                            ตรวจสุขภาพบุคลากร</p>
+                                                            richard@creative-tim.com</p>
                                                     </div>
                                                 </div>
                                             </td>
                                             <td>
-                                                <p class="text-xs font-weight-bold mb-0">Hb, Hct, RBC, MCV, ...</p>
-                                                <p class="text-xs text-secondary mb-0">แพทย์ผู้ตรวจ : นายแพทย์สุดหล่อ</p>
+                                                <p class="text-xs font-weight-bold mb-0">Manager</p>
+                                                <p class="text-xs text-secondary mb-0">Executive</p>
                                             </td>
                                             <td class="align-middle text-center text-sm">
-                                                <span class="badge badge-sm bg-gradient-secondary">รอรายงานผล</span>
+                                                <span class="badge badge-sm bg-gradient-secondary">Offline</span>
                                             </td>
                                             <td class="align-middle text-center">
                                                 <span
@@ -197,7 +197,7 @@
                                                 <a href="javascript:;"
                                                     class="text-secondary font-weight-bold text-xs"
                                                     data-toggle="tooltip" data-original-title="Edit user">
-                                                    คลิกเพื่อแสดงรายงาน
+                                                    Edit
                                                 </a>
                                             </td>
                                         </tr>
@@ -212,16 +212,16 @@
                                                     <div class="d-flex flex-column justify-content-center">
                                                         <h6 class="mb-0 text-sm">Miriam Eric</h6>
                                                         <p class="text-xs text-secondary mb-0">
-                                                            ตรวจสุขภาพบุคลากร</p>
+                                                            miriam@creative-tim.com</p>
                                                     </div>
                                                 </div>
                                             </td>
                                             <td>
-                                                <p class="text-xs font-weight-bold mb-0">Hb, Hct, RBC, MCV, ...</p>
-                                                <p class="text-xs text-secondary mb-0">แพทย์ผู้ตรวจ : นายแพทย์สุดหล่อ</p>
+                                                <p class="text-xs font-weight-bold mb-0">Programator</p>
+                                                <p class="text-xs text-secondary mb-0">Developer</p>
                                             </td>
                                             <td class="align-middle text-center text-sm">
-                                                <span class="badge badge-sm bg-gradient-secondary">รอรายงานผล</span>
+                                                <span class="badge badge-sm bg-gradient-secondary">Offline</span>
                                             </td>
                                             <td class="align-middle text-center">
                                                 <span
@@ -231,7 +231,7 @@
                                                 <a href="javascript:;"
                                                     class="text-secondary font-weight-bold text-xs"
                                                     data-toggle="tooltip" data-original-title="Edit user">
-                                                    คลิกเพื่อแสดงรายงาน
+                                                    Edit
                                                 </a>
                                             </td>
                                         </tr>
@@ -246,7 +246,7 @@
                 <div class="col-12">
                     <div class="card my-4">
                         <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2">
-                            <div class="bg-gradient-success shadow-success border-radius-lg pt-4 pb-3">
+                            <div class="bg-gradient-primary shadow-primary border-radius-lg pt-4 pb-3">
                                 <h6 class="text-white text-capitalize ps-3">กำลังรอผลตรวจ </h6>
                             </div>
                         </div>
